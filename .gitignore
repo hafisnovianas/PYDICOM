@@ -2,6 +2,9 @@
 __pycache__/
 dicom_env/
 
+# Project inputs
+folder_input/
+
 # Project outputs
 frame_output/
 video_output/
