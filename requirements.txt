@@ -1,0 +1,7 @@
+pydicom
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
+numpy==2.3.4
+imageio
+imageio[ffmpeg]

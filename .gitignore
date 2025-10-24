@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+dicom_env/
+
+# Project outputs
+frame_output/
+video_output/
